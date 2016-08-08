@@ -23,3 +23,11 @@ var division = function(number1, number2) {
  // }
  // var bmi = calculate(weight, height);
  // alert("Your BMI is " + bmi);
+
+ // var fahrenheit = function(x) {
+ // 	return x * 9 / 5 + 32;
+ //   };
+ //
+ // var celcius = parseInt(prompt("Temperature in celcius:"));
+ //
+ // alert ("The answer is " + fahrenheit(celcius));
