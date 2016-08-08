@@ -31,3 +31,11 @@ var division = function(number1, number2) {
  // var celcius = parseInt(prompt("Temperature in celcius:"));
  //
  // alert ("The answer is " + fahrenheit(celcius));
+
+//  var celcius = function(y) {
+// 	return y - 32 * 5 / 9;
+// };
+//
+// var fahrenheit = parseInt(prompt("Temperature in fahrenheit:"));
+//
+// alert ("The answer in celcius is " + celcius(fahrenheit));
